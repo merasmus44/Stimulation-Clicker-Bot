@@ -1,8 +1,9 @@
 # Stimulation-Clicker-Bot
 A bot that automatically beats stimulation clicker on neal.fun
 # Usage
-You can paste this script into the console on https://neal.fun/stimulation-clicker/ or use any means of running code on the website
-there are a couple functions that you are intended to be able to use
+You can paste this script into the console on https://neal.fun/stimulation-clicker/ or use any means of running code on the website.
+
+There are a couple functions that you are intended to be able to use:
 
 pauseClick() - pauses clicking
 
